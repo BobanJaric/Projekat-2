@@ -1,0 +1,70 @@
+input[type="date"]::-webkit-inner-spin-button {
+  display: none;
+}
+body{
+  background-color: #d6e0f5;
+  color: #1e3d7b;
+}
+.pull-left{
+  margin-right: 20px;
+}
+h1{
+  color: #1e3d7b;
+  text-transform: uppercase;
+}
+.main-button {
+  background-color:  #1e3d7b;
+  text-transform: uppercase;
+}
+h4{
+  color:white;
+}
+.navbar-default {
+    background-color: #1e3d7b;
+    border-color: #e7e7e7;
+}
+.navbar-brand>img {
+    margin: 0 ;
+    padding: 0;
+}
+.navbar-brand {
+    height: 40px;
+    padding: 10px;
+}
+#tableWrap {
+  display: none;
+}
+.main-footer{
+  margin-top:50px;
+  background-color: #1e3d7b;
+  color: white;
+  line-height: 2.5;
+  margin-bottom: 0;
+
+}
+p {
+    margin: 0 0;
+}
+.Export {
+  margin-top: 35px;
+  float: right;
+
+}
+.Export span{
+  font-size: 17px;
+  outline: 2px solid red;
+  background-color:  #1e3d7b;
+  color: white;
+  padding: 5px;
+
+
+}
+
+.btn-danger {
+    padding-right: 1px;
+    width: 90%;
+    margin-top: 50px;
+}
+.container-1{
+  width:940px;
+}
